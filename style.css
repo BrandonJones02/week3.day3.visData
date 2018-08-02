@@ -1,0 +1,12 @@
+body {
+    background: rgb(9,100,121);
+    background: linear-gradient(90deg, rgba(9,100,121,1) 25%, rgba(0,255,184,1) 100%);
+    font-size: 25px;
+}
+
+.pic {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;   
+}
